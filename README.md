@@ -25,8 +25,8 @@ gunakan php spark serve untuk memulai virtual host CodeIgniter
 Masukan File header dan Footer di app/views/template
 ### Hasil
 Code Igniter
-![Gambar](img/ss3.png)
+![Gambar](img/3.png)
 ### Layout
-![Gambar](img/ss4.png)
-![Gambar](img/ss5.png)
-![Gambar](img/ss6.png)
+![Gambar](img/4.png)
+![Gambar](img/5.png)
+![Gambar](img/6.png)

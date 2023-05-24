@@ -12,7 +12,9 @@
     <div class="widget-box">
       <h3 class="title">Widget Text</h3>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste nemo pariatur vitae obcaecati nam in ipsa, optio nesciunt ducimus eos doloribus minus sequi, quae placeat fuga?
+        Vestibulum lorem elit, iaculis in nisl volutpat,
+        malesuada tincidunt arcu. Proin in leo fringilla, vestibulum mi porta,
+        faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.
       </p>
     </div>
   </aside>
@@ -22,4 +24,5 @@
 </footer>
 </div>
 </body>
+
 </html>
